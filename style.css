@@ -1,4 +1,10 @@
 h1{
     color: darkslategrey;
-    background-color: rgb(165, 245, 245);
+}
+.span{
+    color: darkgoldenrod;
+}
+.margin{
+    margin-top: 10px;
+    margin-left: 5px;
 }
