@@ -2,9 +2,13 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
-h1{
+.header{
     font-size: 50px;
-    color: darkslategrey;
+    color: #2f4f4f;
+}
+h2{
+    font-size: 35px;
+    color: #2f4f4f;
 }
 .span{
     color: darkgoldenrod;
@@ -22,7 +26,7 @@ h1{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
+    background-image: linear-gradient(#ffa500, tomato);
     padding : 5px 20px;
     color: white;
     font-weight: 800;
@@ -35,6 +39,13 @@ h1{
 .dream-big{
     margin-top: 200px;
 }
-.tow-box{
-
+.boxes{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+    box-shadow: 10px 10px 70px 0px #3d3d3d;
 }
