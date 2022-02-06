@@ -9,7 +9,7 @@ h1{
 .span{
     color: darkgoldenrod;
 }
-section{
+.section{
     display: flex;
     margin-bottom: 100px;
 }
@@ -34,4 +34,7 @@ section{
 }
 .dream-big{
     margin-top: 200px;
+}
+.tow-box{
+
 }
