@@ -49,3 +49,7 @@ h2{
     padding-bottom: 40px;
     box-shadow: 10px 10px 70px 0px #3d3d3d;
 }
+#box1-border{
+    border-left: 5px solid;
+    border-color: ;
+}
